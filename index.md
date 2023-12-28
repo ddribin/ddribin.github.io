@@ -1,3 +1,3 @@
 # ddribin.github.io
 
-This is `README.md`.
+This is `index.md`.
